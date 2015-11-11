@@ -4,4 +4,4 @@
 **Occupation:** Computer Science Student and FrontEnd Developer.
 **Current City:** Mexico, Mexico.
 **Hobbies:** Programming, play the piano, dancing, going out with friends.
-**Social:** @arturoaviles
+**Social:** Twitter: @arturoaviles
